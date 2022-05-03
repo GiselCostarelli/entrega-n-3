@@ -1,0 +1,123 @@
+
+.imagen-logo-tamaño{
+    width: 120px;
+    height: 55px;
+}
+
+
+
+nav{
+    font-family:  'Roboto', sans-serif, ;
+    
+}
+
+.fondo{
+    background-color: #4B5160;
+}
+
+.texto-contenedor{
+    font-family: 'Roboto', sans-serif, ;
+    color: white;
+}
+
+.texto-contenedor3{
+    color: #4B5160;
+    font-family: 'Roboto', sans-serif, ;
+}
+.texto-contenedor4{
+    font-family: 'Roboto', sans-serif, ;
+}
+
+.titulo-principal{
+    color:white;
+    position:absolute;
+    font-family: 'Roboto', sans-serif, ;
+    top: 30%;
+    margin-left: 25px;
+    text-shadow: 0 0 7px rgba(0, 0, 0, 0.8); 
+}
+
+
+.titulo-la-empresa{
+  color:white;
+  text-shadow: 0 0 7px rgba(0, 0, 0, 0.8); 
+  padding-top: 3px;
+}
+@media (max-width: 400px){
+  .titulo-principal{
+    font-size: x-large;
+  }
+
+}
+@media (max-width: 400px){
+  .titulo-secundario{
+    font-size: large;
+  }
+
+}
+
+.titulo-secundario{
+    color: white;
+    position:absolute;
+    font-family: 'Roboto wght@900', sans-serif;
+    top: 38%;
+    margin-left: 25px;
+    margin-top: 15px;
+    text-shadow: 0 0 3px rgba(0, 0, 0, 0.8); 
+}
+
+
+.red-social{
+  color: white;
+  padding: 3px;
+  margin-top: 5px;
+}
+
+
+
+.tamaño.imagen{
+  width: auto
+}
+
+.titulo-principal-e{
+  color:black;
+  font-family: 'Roboto', sans-serif, ;
+  text-shadow: 0 0 7px rgba(0, 0, 0, 0.8); 
+  margin-top: 20%;
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+.titulo-secundario-e{
+  color: black;
+  font-family: 'Roboto', sans-serif, ;
+  
+}
+
+.tutor{
+  width: 300px;
+  padding-top: 50px;
+}
+
+.tutor:hover{
+  transform: scale(1.2);
+}
+.fondo-la-empresa{
+  background-color:#798196 ;
+}
+.fondo{
+  background-color: none;
+  width: auto;
+  height: 100%;
+}
+
+.imagen-servicios{
+  height: 100px;
+  width: 100px;
+}
+
+
+
+.fondo-contactos{
+background-color: #E8E9E8;
+}
